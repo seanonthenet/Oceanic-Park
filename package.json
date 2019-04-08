@@ -1,0 +1,22 @@
+{
+    "name": "oceanic-park",
+    "displayName": "Oceanic Park",
+    "author": "Sean Park <sean@parklife.io> (https://twitter.com/seanseanio)",
+    "description": "An improved combination of Oceanic Next, Cobalt2 and Cobalt Next",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Oceanic Park",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Oceanic Park-color-theme.json"
+            }
+        ]
+    }
+}
