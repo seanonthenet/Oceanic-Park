@@ -23,3 +23,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Updated package.json with keywords
 ### Added
 - Screenshot
+
+## [0.0.5] - 2019-07-17
+### Changed
+- Updated color for editor gutter background
+
+## [0.0.6] - 2019-07-18
+### Changed
+- Color and icon for Marketplace listing
+### Added
+- Icon image
