@@ -33,3 +33,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Color and icon for Marketplace listing
 ### Added
 - Icon image
+- .gitignore
+
+## [0.0.7] - 2019-08-10
+### Changed
+- Border of diff editor sucked

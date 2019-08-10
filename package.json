@@ -8,7 +8,7 @@
 	},
 	"author": "Sean Park <sean@parklife.io> (https://twitter.com/seanseanio)",
 	"description": "An improved combination of Cobalt Next, Cobalt2 and Oceanic Next.",
-	"version": "0.0.6",
+	"version": "0.0.7",
 	"engines": {
 		"vscode": "^1.33.0"
 	},
